@@ -1,4 +1,2 @@
 datasciencecoursera
-===================
-
 course content 
